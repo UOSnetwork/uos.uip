@@ -1,7 +1,7 @@
 U°OS Referral System
 ---------------------------
 
-Design and implementa a referral system for U°OS network.
+Design and implement a a referral system for U°OS network.
 
 Key terms:
 
